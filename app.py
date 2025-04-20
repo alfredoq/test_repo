@@ -1,0 +1,1 @@
+- * dom 20 abr 2025 16:35:53 -03 * This is the base version of the app version of the app
