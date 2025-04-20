@@ -1,1 +1,2 @@
 - * dom 20 abr 2025 16:35:53 -03 * This is the base version of the app version of the app
+- * dom 20 abr 2025 16:42:15 -03 * This will add behavior associated to Module 1 to the app
